@@ -1,0 +1,9 @@
+/* Seletor de prefixo de classes*/
+[class^="col-md"]{	
+	background-color: pink;
+}
+
+.row {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
